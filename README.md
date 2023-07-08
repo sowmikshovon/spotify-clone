@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) spotify-clone project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-For database I used PostgreSQL with [Supabase](https://supabase.com/). Payment method [strip](https://stripe.com/) is intrigated. For style [TailwindCSS](https://tailwindcss.com/) was used.
+For database I used PostgreSQL with [Supabase](https://supabase.com/). Payment method [Stripe](https://stripe.com/) is intrigated. For style [TailwindCSS](https://tailwindcss.com/) was used.
 
 For live demo Visit [Here](). You can crate an account. Provide a test payment method. Then you can upload songs with a cover photo and listen them.
 
