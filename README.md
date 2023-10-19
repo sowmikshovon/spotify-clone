@@ -34,7 +34,7 @@ Install packages
 npm install
 ```
 
-Setup .env file
+Setup .env file with your own supabase & stripe keys
 
 ```js
 NEXT_PUBLIC_SUPABASE_URL=
@@ -47,7 +47,7 @@ STRIPE_WEBHOOK_SECRET=
 ```
 
 Add SQL Tables
-Folow [Antonio](https://www.youtube.com/watch?v=2aeMRB8LL4o&t=3023s) for creating the database.
+Folow [Antonio](https://www.youtube.com/watch?v=2aeMRB8LL4o&t=3023s) for creating the database. I followed his tutorial for this project.
 
 Start the app
 
