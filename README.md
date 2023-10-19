@@ -4,7 +4,6 @@ For database I used PostgreSQL with [Supabase](https://supabase.com/). Payment m
 
 For live demo Visit [https://spotify-clone-2-f8o4c3asg-sowmikshovon.vercel.app/](https://spotify-clone-2-omega.vercel.app/). You can create an account. Provide a test payment method. Then you can upload songs with a cover photo and listen them.
 
-Build following [Code With Antonio](https://www.youtube.com/@codewithantonio) youtube tutorial video.
 
 Key Features:
 
