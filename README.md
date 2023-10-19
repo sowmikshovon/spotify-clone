@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) spotify-clone project bootstrapped with
 
 For database I used PostgreSQL with [Supabase](https://supabase.com/). Payment method [Stripe](https://stripe.com/) is intrigated. For style [TailwindCSS](https://tailwindcss.com/) was used.
 
-For live demo Visit https://spotify-clone-2-sowmikshovon.vercel.app/. You can create an account. Provide a test payment method. Then you can upload songs with a cover photo and listen them.
+For live demo Visit [https://spotify-clone-2-sowmikshovon.vercel.app/](https://spotify-clone-2-sowmikshovon.vercel.app/). You can create an account. Provide a test payment method on stripe. Then you can upload songs with a cover photo and listen them. Uploaded songs are available for all premium members.
 
 
 Key Features:
