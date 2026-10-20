@@ -1,3 +1,5 @@
+![CI Pipeline](https://github.com/sowmikshovon/spotify-clone/actions/workflows/ci.yml/badge.svg)
+
 This is a [Next.js](https://nextjs.org/) spotify-clone project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 For database I used PostgreSQL with [Supabase](https://supabase.com/). Payment method [Stripe](https://stripe.com/) is intrigated. For style [TailwindCSS](https://tailwindcss.com/) is used.
